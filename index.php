@@ -64,4 +64,6 @@ echo "<br>Após remover Balas e Bebidas:<br>";
 exibir_lista($lista_compras);
 
 contarItens($lista_compras);
+
+//http://localhost/listacompras-php/index.php
 ?>
